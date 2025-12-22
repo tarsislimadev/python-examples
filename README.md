@@ -24,6 +24,8 @@
 
 [Data Distributions](./data-distributions.py)
 
+[Pandas reads CSV file](./pandas-read-csv.py)
+
 ## license
 
 [MIT](./LICENSE)
