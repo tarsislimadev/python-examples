@@ -12,6 +12,8 @@
 
 [VID-20250918-WA0036](./VID-20250918-WA0036.py)
 
+[mouse positions](./mouse-positions.py)
+
 ## license
 
 [MIT](./LICENSE)
