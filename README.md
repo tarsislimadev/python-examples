@@ -16,6 +16,8 @@
 
 [file write](./file-write.py)
 
+[matplotlib pyplot](./matplotlib_pyplot.py)
+
 ## license
 
 [MIT](./LICENSE)
