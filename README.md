@@ -20,6 +20,8 @@
 
 [matplotlib line](./matplotlib_line.py)
 
+[OpenCV Video Capture](./opencv-video-capture.py)
+
 ## license
 
 [MIT](./LICENSE)
