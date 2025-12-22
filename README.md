@@ -22,6 +22,8 @@
 
 [OpenCV Video Capture](./opencv-video-capture.py)
 
+[Data Distributions](./data-distributions.py)
+
 ## license
 
 [MIT](./LICENSE)
