@@ -1,6 +1,6 @@
 # Python examples
 
-[simple mouse macro recorder](./simple-mouse-macro-recorder/app.py)
+[simple mouse macro recorder](./simple-mouse-macro-recorder.py)
 
 ## license
 
