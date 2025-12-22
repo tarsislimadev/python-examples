@@ -18,6 +18,8 @@
 
 [matplotlib pyplot](./matplotlib_pyplot.py)
 
+[matplotlib line](./matplotlib_line.py)
+
 ## license
 
 [MIT](./LICENSE)
