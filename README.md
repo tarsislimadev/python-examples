@@ -36,6 +36,10 @@ A list of Python examples to you copy to your projects.
 
 [Hello name](./tkinter-hello-name.py)
 
+## [pygame](https://github.com/pygame/pygame)
+
+[Tic Tac Toe](./pygame-tictactoe.py)
+
 ## license
 
 [MIT](./LICENSE)
