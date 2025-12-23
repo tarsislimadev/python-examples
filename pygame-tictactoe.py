@@ -6,7 +6,7 @@ pygame.init()
 
 width = 600
 height = 600
-weight = 15
+weight = 1
 
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption('Tic Tac Toe')
@@ -29,7 +29,7 @@ def draw_symbols():
         for column in range(3):
             if table[line][column] != None:
                 text = font.render(table[line][column], True, COLORS.BLUE_1)
-                screen.blit(text, (column * (width//3) + (width//4), line * (height//3) + (height//30)))
+                screen.blit(text, (column * (width//3) + 80, line * (height//3) + 60))
 
 def check_winner():
     for line in range(3):
@@ -49,13 +49,13 @@ def play(line, column):
 
     if table[line][column] is None:
         table[line][column] = cur_player
-        winner = check_winner()
-
-        if winner != None:
-            print('Player', winner, 'wins!')
-            game_over = True
-
         cur_player = 'o' if cur_player == 'x' else 'x'
+
+    winner = check_winner()
+
+    if winner != None:
+        print('Player', winner, 'wins!')
+        game_over = True
 
 def handle_quit():
     pygame.quit()
