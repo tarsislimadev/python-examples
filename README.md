@@ -30,9 +30,11 @@ A list of Python examples to you copy to your projects.
 
 [Mouse Recorder](./pyautogui-mouse-recorder.py)
 
-[Mouse and Sleep](./pyautogui-mouse-sleep.py)
-
 [Screenshot](./pyautogui-screenshot.py)
+
+[Mouse and Plot](./pyautogui-mouse-matplotlib-plot.py)
+
+[Linkegin Page](./pyautogui-linkedin-page.py)
 
 ## [tkinter](https://docs.python.org/3/library/tkinter.html)
 
