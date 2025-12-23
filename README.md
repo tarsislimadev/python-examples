@@ -4,49 +4,35 @@ A list of Python examples to you copy to your projects.
 
 ## examples
 
-### mouse
+### opencv (cv2)
 
-[mouse plot](./mouse-plot.py)
+[Brightness Optimizer](./cv2-brightness-optimizer.py)
 
-[mouse recorder](./mouse-recorder.py)
+[OpenCV Canny](./cv2-canny.py)
 
-[mouse positions](./mouse-positions.py)
+[Face Detection](./cv2-face-detection.py)
 
-[simple mouse macro recorder](./simple-mouse-macro-recorder.py)
+[Image Gradients](./cv2-image-gradients.py)
 
-### image
+[Video Capture](./cv2-video-capture.py)
 
-[image gradients](./image_gradients.py)
+### ffmpeg
 
-[auto brightness optimizer](./auto-brightness-optimizer.py)
+[Live stream](./ffmpeg-live-stream.py)
 
-### opencv
+### file
 
-[OpenCV Video Capture](./opencv-video-capture.py)
+[Write and read](./file-write-and-read.py)
 
-### MatPlotLib
+### PyAutoGUI
 
-[matplotlib pyplot](./matplotlib_pyplot.py)
+[Mouse Plot](./pyautogui-mouse-plot.py)
 
-[matplotlib line](./matplotlib_line.py)
+[Mouse Positions](./pyautogui-mouse-positions.py)
 
-[Data Distributions](./data-distributions.py)
+[Mouse Recorder](./pyautogui-mouse-recorder.py)
 
-### pandas
-
-[Pandas reads CSV file](./pandas-read-csv.py)
-
-### files
-
-[file write](./file-write.py)
-
-### miscelaneous
-
-[_while](./_while.py)
-
-[live edge vision](./live-edge-vision.py)
-
-[VID-20250918-WA0036](./VID-20250918-WA0036.py)
+[Mouse and Sleep](./pyautogui-mouse-sleep.py)
 
 ## license
 
