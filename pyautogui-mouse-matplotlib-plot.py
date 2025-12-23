@@ -1,14 +1,20 @@
 import pyautogui
 import matplotlib.pyplot as plt
+import time
+
+SLEEP = 10
 
 x_coords = []
 y_coords = []
 
-x, y = 100, 100
+cur_time = lambda: int(time.time())
+start_time = cur_time()
+end_time = start_time + SLEEP
+print(f'start: {start_time}; end: {end_time}')
 
-print("Move the mouse to record positions. Move to the top-left corner (x < 10) to stop.")
+print('Move the mouse to record positions. Wait for 10 seconds to stop.')
 
-while not x < 10 :
+while cur_time() < end_time:
   x, y = pyautogui.position()
   x_coords.append(x)
   y_coords.append(y)
