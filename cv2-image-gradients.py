@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread("data/bricks_2.png", 0)
+image = cv2.imread('./data/bricks_2.png', 0)
 
 # Laplacian
 laplacian = cv2.Laplacian(image, cv2.CV_64F)
@@ -16,9 +16,9 @@ sobely = np.absolute(sobely).astype(np.uint8)
 
 combined = cv2.addWeighted(sobelx, 0.5, sobely, 0.5, 0)
 
-cv2.imshow("Original", image)
-cv2.imshow("Laplacian", laplacian)
-cv2.imshow("SobelX", sobelx)
-cv2.imshow("SobelY", sobely)
-cv2.imshow("Combined", combined)
+cv2.imshow('Original', image)
+cv2.imshow('Laplacian', laplacian)
+cv2.imshow('SobelX', sobelx)
+cv2.imshow('SobelY', sobely)
+cv2.imshow('Combined', combined)
 cv2.waitKey(0)

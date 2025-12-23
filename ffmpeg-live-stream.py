@@ -1,10 +1,12 @@
+# ffplay -f flv "http://localhost:8088"
+
 import ffmpeg
 
 process = (
     ffmpeg
-      .input("./VID-20250918-WA0036.mp4")
+      .input("./data/live-stream.mp4")
       .output(
-          "http://127.0.0.1:8080", 
+          "http://127.0.0.1:8088", 
           codec = "copy", # use same codecs of the original video
           listen = 1, # enables HTTP server
           f = "flv"
