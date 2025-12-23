@@ -1,4 +1,5 @@
 import cv2
+import COLORS
 
 face_cascade_name = './data/haarcascades/haarcascade_frontalface_alt.xml'
 face_cascade = cv2.CascadeClassifier()
@@ -13,8 +14,7 @@ def detect(frame):
 
 def display(frame, faces):
     for (x, y, w, h) in faces:
-        center = (x + w // 2, y + h // 2)
-        frame = cv2.ellipse(frame, center, (w//2, h//2), 0, 0, 360, (255, 0, 255), 4)
+        frame = cv2.rectangle(frame, (x, y), (x + w, y + h), COLORS.BLACK_1, 4)
 
     cv2.imshow('Face detection', frame)
 
