@@ -40,6 +40,10 @@ A list of Python examples to you copy to your projects.
 
 [Tic Tac Toe](./pygame-tictactoe.py)
 
+## [Flask](https://flask.palletsprojects.com/en/stable/quickstart/)
+
+[minimal application](./flask-minimal-application.py)
+
 ## license
 
 [MIT](./LICENSE)
