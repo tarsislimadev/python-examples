@@ -18,6 +18,8 @@ A list of Python examples to you copy to your projects.
 
 [image gradients](./image_gradients.py)
 
+[auto brightness optimizer](./auto-brightness-optimizer.py)
+
 ### opencv
 
 [OpenCV Video Capture](./opencv-video-capture.py)
