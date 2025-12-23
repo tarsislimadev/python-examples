@@ -6,6 +6,8 @@ A list of Python examples to you copy to your projects.
 
 ### mouse
 
+[mouse plot](./mouse-plot.py)
+
 [mouse recorder](./mouse-recorder.py)
 
 [mouse positions](./mouse-positions.py)
