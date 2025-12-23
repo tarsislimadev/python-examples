@@ -32,6 +32,8 @@ A list of Python examples to you copy to your projects.
 
 [Mouse and Sleep](./pyautogui-mouse-sleep.py)
 
+[Screenshot](./pyautogui-screenshot.py)
+
 ## [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 [Hello name](./tkinter-hello-name.py)
