@@ -48,6 +48,10 @@ A list of Python examples to you copy to your projects.
 
 [minimal application](./flask-minimal-application.py)
 
+## [FPDF](https://www.fpdf.org/)
+
+[Create a PDF file](./fpdf-create-pdf-file.py)
+
 ## license
 
 [MIT](./LICENSE)
