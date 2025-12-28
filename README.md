@@ -54,6 +54,12 @@ A list of Python examples to you copy to your projects.
 
 [Create a PDF file](./fpdf-create-pdf-file.py)
 
+## TODO
+
+- [ ] BeautifulSoup
+
+- [ ] Selenium
+
 ## license
 
 [MIT](./LICENSE)
