@@ -62,6 +62,10 @@ A list of Python examples to you copy to your projects.
 
 [3D Cube Tunnel Effect](./turtle-3d-cube-tunnel-effect.py)
 
+## [Python JSON](https://docs.python.org/3/library/json.html)
+
+[Convert Python Dict](./json-convert-python-dict.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
