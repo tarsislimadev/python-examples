@@ -58,6 +58,12 @@ A list of Python examples to you copy to your projects.
 
 [happy new year](./turtle-happy-new-year.py)
 
+## TODO
+
+- [ ] BeautifulSoup
+
+- [ ] Selenium
+
 ## license
 
 [MIT](./LICENSE)
