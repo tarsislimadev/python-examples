@@ -54,6 +54,10 @@ A list of Python examples to you copy to your projects.
 
 [Create a PDF file](./fpdf-create-pdf-file.py)
 
+## [Python Turtle](https://docs.python.org/3/library/turtle.html)
+
+[happy new year](./turtle-happy-new-year.py)
+
 ## license
 
 [MIT](./LICENSE)
