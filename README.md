@@ -60,6 +60,8 @@ A list of Python examples to you copy to your projects.
 
 [happy new year](./turtle-happy-new-year.py)
 
+[3D Cube Tunnel Effect](./turtle-3d-cube-tunnel-effect.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
