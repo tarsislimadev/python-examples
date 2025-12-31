@@ -67,7 +67,11 @@ A list of Python examples to you copy to your projects.
 ## [Python JSON](https://docs.python.org/3/library/json.html)
 
 [Convert Python Dict](./json-convert-python-dict.py)
-E
+
+## [Pandas](https://pandas.pydata.org/docs/index.html)
+
+[Binance Klines](./pandas-binance-klines.ipynb)
+
 ## TODO
 
 - [ ] BeautifulSoup
