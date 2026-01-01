@@ -78,6 +78,12 @@ A list of Python examples to you copy to your projects.
 
 [MultiAgent Orchestration](./autogen-multi-agent-orchestration.py)
 
+[Musicians](./autogen-musicians.py)
+
+[Developers](./autogen-developers.py)
+
+[Developers 2](./autogen-developers-2.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
