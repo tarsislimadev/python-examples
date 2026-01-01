@@ -76,6 +76,8 @@ A list of Python examples to you copy to your projects.
 
 [Ollama example](./autogen-ollama.py)
 
+[MultiAgent Orchestration](./autogen-multi-agent-orchestration.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
