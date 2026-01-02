@@ -84,6 +84,10 @@ A list of Python examples to you copy to your projects.
 
 [Developers 2](./autogen-developers-2.py)
 
+## [Jupyter](https://docs.jupyter.org/en/latest/)
+
+[Best Ollama Tags](./jupyter-best-ollama-tags.ipynb)
+
 ## TODO
 
 - [ ] BeautifulSoup
