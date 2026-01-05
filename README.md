@@ -94,6 +94,10 @@ A list of Python examples to you copy to your projects.
 
 [Major scale](./midiutil-major-scale.py)
 
+## [PyGuitarPro](https://github.com/Perlence/PyGuitarPro)
+
+[porque ele vive](./guitarpro-porque-ele-vive.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
