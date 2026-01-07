@@ -98,6 +98,10 @@ A list of Python examples to you copy to your projects.
 
 [porque ele vive](./guitarpro-porque-ele-vive.py)
 
+## [Paramiko](https://docs.paramiko.org/en/2.6/index.html)
+
+[SSH Client](./paramiko-ssh-client.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
