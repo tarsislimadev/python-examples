@@ -88,6 +88,8 @@ A list of Python examples to you copy to your projects.
 
 [Best Ollama Tags](./jupyter-best-ollama-tags.ipynb)
 
+[Best Binance Coin](./jupyter-best-binance-coin.ipynb)
+
 ## [MIDIUtil](https://midiutil.readthedocs.io/en/1.2.1/)
 
 [Some notes](./midiutil-some-notes.py)
