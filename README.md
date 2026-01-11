@@ -104,6 +104,10 @@ A list of Python examples to you copy to your projects.
 
 [SSH Client](./paramiko-ssh-client.py)
 
+## [SimpleLPR](https://pypi.org/project/SimpleLPR/)
+
+[Basic Image Recognition](./simplelpr-basic-image-recognition.py)
+
 ## TODO
 
 - [ ] BeautifulSoup
