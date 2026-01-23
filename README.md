@@ -14,6 +14,10 @@ A list of Python examples to you copy to your projects.
 
 [Python SQLite3](./python-sqlite3.py)
 
+## [ultralytics](https://github.com/ultralytics/ultralytics)
+
+[Predict 0 (webcam)](./ultralytics-predict-0.py)
+
 ## [opencv (cv2)](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 
 [Brightness Optimizer](./cv2-brightness-optimizer.py)
