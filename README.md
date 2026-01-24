@@ -44,6 +44,8 @@ A list of Python examples to you copy to your projects.
 
 [digital tree](./matplotlib-digital-tree.ipynb)
 
+[foxbit candlesticks](./matplotlib-foxbit-candlesticks.ipynb)
+
 [pyautogui mouse](./matplotlib-pyautogui-mouse.py)
 
 ## [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
