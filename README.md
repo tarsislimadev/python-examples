@@ -38,6 +38,14 @@ A list of Python examples to you copy to your projects.
 
 [Write and read](./file-write-and-read.py)
 
+## [matplotlib](https://matplotlib.org/stable/)
+
+[binance klines](./matplotlib-binance-klines.ipynb)
+
+[digital tree](./matplotlib-digital-tree.ipynb)
+
+[pyautogui mouse](./matplotlib-pyautogui-mouse.py)
+
 ## [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
 [Mouse Plot](./pyautogui-mouse-plot.py)
@@ -47,8 +55,6 @@ A list of Python examples to you copy to your projects.
 [Mouse Recorder](./pyautogui-mouse-recorder.py)
 
 [Screenshot](./pyautogui-screenshot.py)
-
-[Mouse and Plot](./pyautogui-mouse-matplotlib-plot.py)
 
 [Linkegin Page](./pyautogui-linkedin-page.py)
 
