@@ -66,6 +66,8 @@ A list of Python examples to you copy to your projects.
 
 [Happy New Year](./tkinter-happy-new-year.py)
 
+[Calc](./tkinter-calc.py)
+
 ## [pygame](https://github.com/pygame/pygame)
 
 [Tic Tac Toe](./pygame-tictactoe.py)
