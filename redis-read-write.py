@@ -1,3 +1,5 @@
+# python -m pip install redis
+
 # docker run --name redis1 -d -p 6379:6379 redis
 
 import redis
