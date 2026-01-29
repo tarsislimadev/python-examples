@@ -82,6 +82,8 @@ A list of Python examples to you copy to your projects.
 
 [minimal application](./flask-minimal-application.py)
 
+[Graphene (GraphQL) server](./flask-graphene.py)
+
 ## [FPDF](https://www.fpdf.org/)
 
 [Create a PDF file](./fpdf-create-pdf-file.py)
