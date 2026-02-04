@@ -14,6 +14,10 @@ A list of Python examples to you copy to your projects.
 
 [Python SQLite3](./python-sqlite3.py)
 
+## [GeoBR](https://github.com/ipeaGIT/geobr)
+
+[Rio Claro SP](./geobr-rioclaro-sp.ipynb)
+
 ## [redis](https://redis.io/docs/latest/develop/clients/redis-py/)
 
 [read and write](./redis-read-write.py)
