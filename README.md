@@ -18,6 +18,10 @@ A list of Python examples to you copy to your projects.
 
 [Table create + Data insert, select, update and delete](./mysql-python.py)
 
+## [postgresql](https://www.postgresql.org/docs/)
+
+[SQLAlchemy ORM](./sqlalchemy-orm.py)
+
 ## [ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docker.html)
 
 [Face Recognition](./elasticsearch-facerecognition.py)
