@@ -14,6 +14,10 @@ A list of Python examples to you copy to your projects.
 
 [Python SQLite3](./python-sqlite3.py)
 
+## [ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docker.html)
+
+[Face Recognition](./elasticsearch-facerecognition.py)
+
 ## [GeoBR](https://github.com/ipeaGIT/geobr)
 
 [Rio Claro SP](./geobr-rioclaro-sp.ipynb)
