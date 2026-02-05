@@ -26,6 +26,12 @@ A list of Python examples to you copy to your projects.
 
 [Face Recognition](./elasticsearch-facerecognition.py)
 
+## [Pika (RabbitMQ)](https://pika.readthedocs.io/en/stable/)
+
+[Consumer](./pika-consumer.py)
+
+[Publisher](./pika-publisher.py)
+
 ## [GeoBR](https://github.com/ipeaGIT/geobr)
 
 [Rio Claro SP](./geobr-rioclaro-sp.ipynb)
