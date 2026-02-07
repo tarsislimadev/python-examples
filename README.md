@@ -126,6 +126,8 @@ A list of Python examples to you copy to your projects.
 
 [Binance Klines](./pandas-binance-klines.ipynb)
 
+[UFU Pensionistas](./pandas-ufu-pensionistas.ipynb)
+
 ## [AutoGen](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html)
 
 [Ollama example](./autogen-ollama.py)
