@@ -164,6 +164,10 @@ A list of Python examples to you copy to your projects.
 
 [Basic Image Recognition](./simplelpr-basic-image-recognition.py)
 
+## [cocos2d](https://pypi.org/project/cocos2d/)
+
+[hello world](./cocos2d-helloworld.py)
+
 ## [schedule](https://schedule.readthedocs.io/en/stable/#)
 
 [Binance klines](./schedule-binance-klines.py)
