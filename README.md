@@ -2,6 +2,12 @@
 
 A list of Python examples to you copy to your projects.
 
+## Run Jupyter Notebook
+
+```bash
+docker run --rm -it -v .:/app -w /app -p 8888:8888 jupyter/minimal-notebook jupyter notebook
+```
+
 ## Examples
 
 [ATM](./example-atm.py)
