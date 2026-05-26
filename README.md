@@ -174,6 +174,10 @@ docker run --rm -it -v .:/app -w /app -p 8888:8888 jupyter/minimal-notebook jupy
 
 [hello world](./cocos2d-helloworld.py)
 
+## [Bokeh](https://bokeh.org/)
+
+[Bokeh Plotting](./bokeh-plotting-1.py)
+
 ## [schedule](https://schedule.readthedocs.io/en/stable/#)
 
 [Binance klines](./schedule-binance-klines.py)
